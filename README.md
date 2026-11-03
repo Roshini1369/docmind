@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DocMind: Multi-Agent RAG Research Assistant
 
 Upload PDFs, text or markdown files and ask questions. A team of AI agents plans the search,
@@ -98,3 +99,7 @@ frontend/index.html        chat UI (no build step)
 - Add a web-search agent with an MCP tool and route between docs and web.
 - Evaluate retrieval with a small Q&A set (hit rate, MRR) and tune chunk size.
 - Swap Chroma for pgvector, add auth and per-user collections, deploy with Docker.
+=======
+# docmind
+A Multi-Agent RAG Research Assistant Using LangGraph
+>>>>>>> ab83a86b6e96453cf67e483d5f0dc591a5749885
